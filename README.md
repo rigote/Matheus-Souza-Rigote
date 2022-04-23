@@ -4,7 +4,7 @@ Hi 👋 My name is Matheus Souza Rigote
 Full Stack Developer
 --------------------
 
-Engenheiro de software formado em processamento de dados e análise de sistema, especialista no segmento e-Commerce atuando à mais de dez anos na área. Entusiasta de tecnologias open source como principal o JavaScript. Atuando na digitalização de produtos desde a elaboração de Wireframes, UX/UI, execução, levantamento de requisitos, desenvolvimento (Back e Front) alinhamento com a equipe até a entrega. Habilidades: C#, ASP.NET, Angular 4+, React, React Native, Flutter, ES6, JQuery, Json, NodeJs, Type Script, HTML5, CSS3, SCSS, TDD, DDD, SOLID, PWA, CQRS, Mongo DB, MySql, SQL Server, API's, Shopify, Vtex.
+Arquiteto de software formado em processamento de dados e análise de sistema, especialista no segmento e-Commerce atuando à mais de dez anos na área. Entusiasta de tecnologias open source como principal o JavaScript. Atuando na digitalização de produtos desde a elaboração de Wireframes, UX/UI, execução, levantamento de requisitos, desenvolvimento (Back e Front) alinhamento com a equipe até a entrega. Habilidades: C#, ASP.NET, Angular 4+, React, React Native, Flutter, ES6, JQuery, Json, NodeJs, Type Script, HTML5, CSS3, SCSS, TDD, DDD, SOLID, PWA, CQRS, Mongo DB, MySql, SQL Server, API's, Shopify, Vtex.
 
 * 🌍  I'm based in São Paulo
 * 🖥️  See my portfolio at [My Linkedin](http://www.linkedin.com/in/matheusrigote/)
